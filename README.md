@@ -28,3 +28,6 @@ problem in a separate, clearly labeled section of the notebook.
 **A. REPRODUCIBLE NORMALIZATION PROBLEM**
 Create a reproducible random 5 × 5 integer ndarray named X. Use the following two statements before
 performing any calculation:
+
+np.random.seed(2112)
+X = np.random.randint(10, 101, size=(5, 5))
