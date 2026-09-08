@@ -2,6 +2,7 @@
 **Submitted by Lance Joseph N. Mallari**
 
 **2ECE-A    Date: 09/08/2026**
+---
 
 This is repository contains all the necessary code for PA2 along with the breakdown for each line of code
 ### I. Intended Learning Outcomes
